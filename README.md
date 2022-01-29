@@ -27,5 +27,5 @@ Given below are the steps taken to build the model:
 
 ## Technologies Used
 - Jupyter Notebook
--	ML model: Customized LSTM Model
+-	ML model: Stacked LSTM Model
 -	Libraries: pandas, pandas_datareader, numpy, matplotlib.pyplot, math, tensorflow, sk-learn.
